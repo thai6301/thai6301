@@ -1,0 +1,12 @@
+Cách chơi:
+-Bấm chuột trái để mở một ô
+-Bấm chuột phải để đặt và xóa cờ
+-Bấm esc để thoát game
+-Bấm r để chơi lại
+Để chơi được game cần cài đặt các thư viện:
+SDL_image.h
+SDL_mixer.h
+SDL_ttf.h
+SDL2
+
+Vào thư mục minesweeper để chạy file game.exe
